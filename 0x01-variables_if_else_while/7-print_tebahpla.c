@@ -11,10 +11,10 @@ int main(void)
 	char ch = 'a';
 	char l = 'z';
 
-	while (ch < l)
+	while (ch <= l)
 	{
 		putchar(l);
-			ch++;
+			ch--;
 	}
 	putchar('\n');
 	return (0);
