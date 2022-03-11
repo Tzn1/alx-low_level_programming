@@ -8,8 +8,8 @@
 
 int main(void)
 {
-	char ch ='a'; 
-	char l ='z';
+	char ch = 'a';
+	char l = 'z';
 
 	while (ch < l)
 	{
