@@ -3,7 +3,7 @@
 /**
  * main- main block
  * Description: prints single digit numbers of base 10
- * Result: 0
+ * Return: 0
  */
 
 int main(void)
