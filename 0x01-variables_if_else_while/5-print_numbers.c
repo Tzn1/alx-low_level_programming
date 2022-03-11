@@ -3,16 +3,16 @@
 /**
  * main- main block
  * Description: prints single digit numbers of base 10
- * Result: Always 0 (Success)
+ * Result: 0
  */
 
 int main(void)
 {
-	int n=0;
+	int n = 0;
 
-	while(n<10)
-	
-	{	printf("%d",n);
+	while (n < 10)
+
+	{	printf("%d", n);
 			n++;
 	}
 	printf("\n");
