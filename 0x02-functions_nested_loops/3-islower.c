@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main- a function that checks for lowercase character
+ * main- enrty point
+ * Description: a function that checks for lowercase character
  * Return: Always 0;
  */
 
