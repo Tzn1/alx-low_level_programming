@@ -2,7 +2,8 @@
 
 /**
  * main- enrty point
- * _islower - a function that checks for lowercase character
+ * _islower- a function that checks for lowercase character
+ * @c: letter being tested
  * Return: Always 0
  */
 
